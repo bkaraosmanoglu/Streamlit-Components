@@ -1,4 +1,4 @@
-# Streamlit-Components
+# Requirements
 
 ```
 pip install streamlit
@@ -7,6 +7,7 @@ pip install altair
 pip install numpy
 ```
 
+# Running
 ```
-streamlit run 
+streamlit run streamlitComponents.py
 ```
